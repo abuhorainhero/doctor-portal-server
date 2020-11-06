@@ -25,7 +25,7 @@ A Single page Application with dashboard where people can choice the date and ti
     <li>Firebase Authentication</li>
 </ul>
 <br/>
-<a target="_blank" href="https://github.com/abuhorainhero/doctor-portal-server">Back-end Repository</a>
+<a target="_blank" href="https://github.com/abuhorainhero/doctors-portal-client">Front-end Repository</a>
 
 ## Hosting Technology
 <ul>
